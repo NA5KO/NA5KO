@@ -1,26 +1,29 @@
-# 👋 Hello, I'm Amine Yahya
+# 👋 Hi, I'm Amine Yahya
 
-I’m a **Data Engineer | ML & MLOps Enthusiast** building scalable data solutions  
-and automated ML workflows.
-
----
-
-### 🛠️ Tech Stack
-
-Python • SQL • Spark • Docker • Kubernetes • Airflow • GitLab CI/CD  
-Pandas • NumPy • MLflow • TensorFlow • PyTorch
+**Data Engineer | MLOps Enthusiast**  
+I design scalable data pipelines and production-ready data-driven systems.
 
 ---
 
-### 🌱 Currently Working On
+### 🧱 Data Engineering & MLOps Stack
 
-Building reproducible MLOps pipelines and CI/CD automation for ML systems.
+🐍 Python • SQL • Spark  
+📦 Docker • Kubernetes • Helm  
+🔄 Airflow • GitLab CI/CD • MLflow  
+☁️ AWS • Azure • GCP  
+
+---
+
+### 🚀 Focus Areas
+
+- End-to-end data pipelines (batch & streaming)  
+- CI/CD for ML workflows  
+- Model training, versioning & deployment  
+- Cloud-native MLOps architectures  
 
 ---
 
-### 📫 Connect with me
+### 📫 Get in Touch
 
-🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/yahya-amine/)
-📧 Email: amine101yahya@gmail.com
-
----
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin  
+📧 Email: your.email@example.com
