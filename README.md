@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Amine Yahya
 
-<!--
-**NA5KO/NA5KO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Engineer | ML & MLOps Enthusiast** building scalable data solutions  
+and automated ML workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+Python • SQL • Spark • Docker • Kubernetes • Airflow • GitLab CI/CD  
+Pandas • NumPy • MLflow • TensorFlow • PyTorch
+
+---
+
+### 🌱 Currently Working On
+
+Building reproducible MLOps pipelines and CI/CD automation for ML systems.
+
+---
+
+### 📫 Connect with me
+
+🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/yahya-amine/)
+📧 Email: amine101yahya@gmail.com
+
+---
